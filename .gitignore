@@ -6,3 +6,5 @@ node_modules
 .output
 .env
 dist
+# PM2 Configuration
+ecosystem.config.js
